@@ -1,4 +1,4 @@
-package com.flippey.FactoryMethod;
+package com.flippey.factory_method;
 
 /**
  * @author flippey
